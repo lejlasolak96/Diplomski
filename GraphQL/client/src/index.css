@@ -1,0 +1,39 @@
+#register-user, #login {
+	padding: 20px;
+	display: grid;
+	grid-row-gap: 10px;
+}
+
+.email {
+	width: 92%;
+	float: left;
+}
+
+.minus {
+	width: 8%;
+	float: right;
+}
+
+.emails {
+	grid-row-gap: 20px;
+	display: grid;
+}
+
+.newEmails {
+	display: flex;
+}
+
+.vrsta {
+	float: right;
+	width: 70%;
+}
+
+.vrsta-label {
+	float: left;
+	width: 30%;
+}
+
+.div-pretraga {
+	margin-bottom: 20px;
+	width: 100%;
+}
